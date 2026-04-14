@@ -4,5 +4,5 @@
 /**
  * 
  */
-module eserciziConsolidamento {
+module java.core.mastery {
 }
